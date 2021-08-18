@@ -15,3 +15,6 @@
 # Hago uso tambien de WebServices o local Services, los cuales nos permiten interactuar entre la vista y el back end, transportando la información mediante peticiones Ajax y trabajando con formato JSON.
 # En la vista no se utilizó un diseño, es solamente html y jquery.
 # Hago uso también de la librería Moment.js para el formateo de fechas.
+
+
+El proyecto montado lo puedes consultar aqui http://kssystems-001-site6.dtempurl.com/App.aspx
